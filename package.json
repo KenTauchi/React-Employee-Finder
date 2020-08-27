@@ -10,7 +10,7 @@
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.3"
   },
-  "homepage": "https://github.com/KenTauchi/React-Employee-Finder",
+  "homepage": "https://KenTauchi.github.io/React-Employee-Finder",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
