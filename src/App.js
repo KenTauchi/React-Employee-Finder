@@ -31,7 +31,7 @@ class App extends Component {
       <div className="App">
         <input
           type="search"
-          placeholder="search employees"
+          placeholder="search employee"
           onChange={this.finder}
         />
         <CardList employees={filteredMonsters} />
