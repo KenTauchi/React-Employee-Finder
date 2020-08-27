@@ -1,14 +1,14 @@
 import React from "react";
-import "./Card.style.css";
+import classes from "./Card.module.css";
 
 const Card = (props) => {
   return (
-    <div className="card-container">
+    <div className={classes.CardContainer}>
       <img
         alt="employee"
         src={`https://robohash.org/${props.employee.id}?set=set1&size=180x180`}
       />
-      <h1>{props.employee.name}</h1>
+      <h2>{props.employee.name}</h2>
       <p>{props.employee.email}</p>
     </div>
   );

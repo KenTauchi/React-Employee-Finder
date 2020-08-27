@@ -2,6 +2,7 @@ import React, { Component } from "react";
 import logo from "./logo.svg";
 import "./App.css";
 import CardList from "./components/CardList/CardList";
+import SearchBox from "./components/Searchbox/Searchbox";
 
 class App extends Component {
   state = {
@@ -29,11 +30,8 @@ class App extends Component {
     );
     return (
       <div className="App">
-        <input
-          type="search"
-          placeholder="search employees"
-          onChange={this.finder}
-        />
+        <h1>Bot Employess Rolodex</h1>
+        <SearchBox search={this.finder} />
         <CardList employees={filteredMonsters} />
       </div>
     );
