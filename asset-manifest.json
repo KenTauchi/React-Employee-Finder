@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/KenTauchi/React-Employee-Finder.git/static/css/main.4788d745.chunk.css",
+    "main.js": "/KenTauchi/React-Employee-Finder.git/static/js/main.420cc720.chunk.js",
+    "main.js.map": "/KenTauchi/React-Employee-Finder.git/static/js/main.420cc720.chunk.js.map",
+    "runtime-main.js": "/KenTauchi/React-Employee-Finder.git/static/js/runtime-main.efd8ea35.js",
+    "runtime-main.js.map": "/KenTauchi/React-Employee-Finder.git/static/js/runtime-main.efd8ea35.js.map",
+    "static/js/2.18c5bf04.chunk.js": "/KenTauchi/React-Employee-Finder.git/static/js/2.18c5bf04.chunk.js",
+    "static/js/2.18c5bf04.chunk.js.map": "/KenTauchi/React-Employee-Finder.git/static/js/2.18c5bf04.chunk.js.map",
+    "index.html": "/KenTauchi/React-Employee-Finder.git/index.html",
+    "precache-manifest.3b8d3bf9a1026a20414812c989dc1637.js": "/KenTauchi/React-Employee-Finder.git/precache-manifest.3b8d3bf9a1026a20414812c989dc1637.js",
+    "service-worker.js": "/KenTauchi/React-Employee-Finder.git/service-worker.js",
+    "static/css/main.4788d745.chunk.css.map": "/KenTauchi/React-Employee-Finder.git/static/css/main.4788d745.chunk.css.map",
+    "static/js/2.18c5bf04.chunk.js.LICENSE.txt": "/KenTauchi/React-Employee-Finder.git/static/js/2.18c5bf04.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/KenTauchi/React-Employee-Finder.git/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.efd8ea35.js",
+    "static/js/2.18c5bf04.chunk.js",
+    "static/css/main.4788d745.chunk.css",
+    "static/js/main.420cc720.chunk.js"
+  ]
+}
